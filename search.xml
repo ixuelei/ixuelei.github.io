@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>categories</title>
-    <url>/2020/02/19/categories/index/</url>
+    <title>tags/旅行</title>
+    <url>/2020/02/20/tags-%E6%97%85%E8%A1%8C/</url>
     <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>ffff</title>
+    <url>/2020/02/19/index/</url>
+    <content><![CDATA[<p>测试新的系列</p>
+<p>categories:</p>
+<ul>
+<li>Diary<br>tags:</li>
+<li>PS3</li>
+<li>Games</li>
+</ul>
+]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
