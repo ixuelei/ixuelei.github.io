@@ -1,5 +1,14 @@
 ---
-title: Hello World
+title: hello-world
+date: 2020-02-20 23:33:51
+categories: # 分类
+- 随记
+tags: # 标签
+- java
+- css
+- javascript
+- vue
+- flutter
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
