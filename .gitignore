@@ -1,0 +1,10 @@
+# ixuelei.github.io
+https://blog.ixuelei.com
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+.deploy*/
+.history/
+pubilc/
